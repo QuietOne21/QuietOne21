@@ -112,7 +112,7 @@ Built a **student collaboration platform** for sharing resources, project ideas,
 <div align="center">
 
 ### 🍽️ Ms Q | Restaurant Reservation System
-**Tech Stack:** C# (.NET Core), SQL Server
+**Tech Stack:** C# (.NET), SQL Server
 
 </div>
 
@@ -122,9 +122,8 @@ Developed a comprehensive **restaurant management system** for table reservation
 - 🪑 Table reservation and management system
 - 🍔 Pre-ordering meals functionality
 - 💳 Secure payment processing
-- 🏗️ Backend business logic implementation with .NET Core
+- 🏗️ Backend business logic implementation with .NET
 - 🗄️ Database operations using SQL Server for reliable transaction handling
-- ✅ Unit testing with NUnit
 
 ---
 
