@@ -15,7 +15,7 @@
 
 ## 💼 Professional Summary
 
-Detail-oriented **Full-Stack Software Developer** and **BSc Information Technology graduate** from North-West University, with hands-on experience building and deploying responsive, secure web applications. Proficient in React.js, Node.js, Express.js, .NET Core, and MySQL, with a strong foundation in RESTful API design, authentication, and unit testing. Experienced in containerization with Docker, CI/CD pipelines using GitHub Actions, and cloud deployment on AWS. A collaborative, fast-learning developer passionate about writing maintainable code and solving real-world problems through practical, user-focused software solutions.
+Detail-oriented **Full-Stack Software Developer** and **BSc Information Technology graduate** from North-West University, with hands-on experience building and deploying responsive, secure web applications. Proficient in React.js, Node.js, Express.js, .NET Core, and MySQL, with a strong foundation in RESTful API design, authentication, and unit testing. Experienced in containerization with Docker, CI/CD pipelines using GitHub Actions. A collaborative, fast-learning developer passionate about writing maintainable code and solving real-world problems through practical, user-focused software solutions.
 
 ---
 
@@ -68,10 +68,6 @@ Detail-oriented **Full-Stack Software Developer** and **BSc Information Technolo
 ### DevOps & Deployment
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
