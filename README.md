@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:C21325,100:1a1a2e&height=220&section=header&text=Welcome%20to%20my%20Grand%20Line&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+
 # 🏴‍☠️ Ahoy, I'm K. Dinale
 
 ### Full-Stack Developer sailing the Grand Line of Code | BSc Information Technology Graduate
@@ -171,3 +173,5 @@ Building a full-stack platform where customers can browse restaurants, book tabl
 ![Profile Views](https://komarev.com/ghpvc/?username=quietone21&color=FF6B35&style=for-the-badge)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:C21325,100:FF6B35&height=150&section=footer" />
